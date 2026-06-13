@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[STRAW](https://alucarddevil.straw.page/) | [RENTRY](https://rentry.co/alucarddevil) | [ATA](https://bladesdevil.atabook.org/) 
+[straw](https://alucarddevil.straw.page/) ┊ [rentry](https://rentry.co/alucarddevil) ┊ [atabook](https://bladesdevil.atabook.org/) 
 
 </div>
 
